@@ -2,7 +2,7 @@
 
 Repositorio de laboratorio del curso SOFT-09.
 
-Objetivo: practicar la colaboración con GitHub.
+Objetivo: practicar el trabajo con ramas de Git y la colaboración con GitHub.
 
 ## Actividades
 
