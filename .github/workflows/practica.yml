@@ -1,0 +1,16 @@
+name: Práctica GitHub Actions
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  verificar-ejecucion:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mostrar mensaje del laboratorio
+        run: echo "Flujo de la práctica ejecutado correctamente"
